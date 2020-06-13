@@ -9,7 +9,7 @@ public class SeleniumTest extends TestCase{
 	@Test
 	public void test()
 	{
-		System.out.println("Test Selenium");
+		System.out.println("Test Seleniumssssss");
 	}
 
 }
